@@ -1,3 +1,3 @@
 module.exports = {
-    url: 'mongodb://process.env.DB_HOST:27017/easy-notes'
+    url: 'mongodb://mongodb-26-rhel7:27017/easy-notes'
 }
