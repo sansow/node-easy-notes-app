@@ -1,3 +1,3 @@
 module.exports = {
-    url: 'mongodb://${notes-map.DBHOST}:27017/easy-notes'
+    url: 'mongodb://${DB_HOST}:27017/easy-notes'
 }
